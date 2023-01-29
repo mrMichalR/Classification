@@ -8,7 +8,7 @@ For the purpose, certain part of original dataset has been taken.
 
 Original dataset can be acquired from the link Employee Attrition (https://www.kaggle.com/patelprashant/employee-attrition)
 
-### Kaggle (original dataset): (https://www.kaggle.com/patelprashant/employee-attrition)
+### Kaggle (original dataset): https://www.kaggle.com/patelprashant/employee-attrition
 
 ### Dataset: [employee_attrition.csv](https://github.com/mrMichalR/Classification/blob/main/df2.csv)
 
